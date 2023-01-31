@@ -1,0 +1,10 @@
+{
+  "name": "@apps/server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@trpc/server": "^10.9.1"
+  }
+}

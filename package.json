@@ -10,6 +10,7 @@
     "apps/*"
   ],
   "scripts": {
-    "server": "yarn workspace @apps/server"
+    "server": "yarn workspace @apps/server",
+    "client": "yarn workspace @apps/client"
   }
 }
